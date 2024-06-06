@@ -2,7 +2,7 @@
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "helloWorld/wsgi.py"
+            "dest": "helloworld/wsgi.py"
         }
     ]
 }
